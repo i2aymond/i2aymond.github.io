@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Feng Shui Destiny Studio</title>
+    <link>http://example.com/blog/</link>
+    <description>Recent content in Blogs on Feng Shui Destiny Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy 2020 Feng Shui Destiny Studio</copyright>
+    <lastBuildDate>Sat, 24 Oct 2020 07:52:27 -0700</lastBuildDate><atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>辛年:2020</title>
+      <link>http://example.com/blog/2020-10-24-post/</link>
+      <pubDate>Sat, 24 Oct 2020 07:52:27 -0700</pubDate>
+      
+      <guid>http://example.com/blog/2020-10-24-post/</guid>
+      <description>First Post Hi guys, this is GoodLukFengSui. I am here to help =)
+I will try my best to run this smoothly</description>
+    </item>
+    
+  </channel>
+</rss>
